@@ -1,0 +1,11 @@
+- Object-Oriented Programming paradigm 
+  - inheritance & encapsulation!
+  - Encapsulation: put all related data and methods in one place
+  - Inheritance: Create objects that inherit parent's properties & methods!
+  - other paradigms: Functional, Procedural
+
+- Objects & Constructors
+  - Constructors: Functions that we use to create objects, Blueprint
+
+  - Objects: Hold actual values that adhere to our constructors / blueprints
+    - new keyword = for creating objects based on constructors 
